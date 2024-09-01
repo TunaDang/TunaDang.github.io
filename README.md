@@ -1,4 +1,4 @@
-## Hello, my name is Tuan Anh Dang and I am a Master of Engineering student in CS @ Cornell University. 
+## Hello, my name is Tuan Anh Dang and I am a Master of Engineering student in CS @ Cornell
 
 My previous projects and research involves Model Visulization, ML (specifically Computer Vision) and Markov chains. For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang.
 
